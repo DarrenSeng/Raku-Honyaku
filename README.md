@@ -44,7 +44,7 @@ Extension Usage:
    * In the popup, find the checkbox labeled "ON/OFF" and use it to enable or disable the extension.
 3. Enter/Remove API Key:
    * Enter your API Key created from the Setup Instructions into the provided input field.
-   * Click "Submit API Key" to save it to Chrome storage. The API Key will automatically be retrieved and used on subsequent Chrome sessions until removed.
+   * Click "Submit API Key" to save it to Chrome storage. The API Key will automatically be retrieved and used on subsequent Chrome sessions until you press the "Remove Stored API Key" button.
 4. Capture and Translate:
    * To extract and translate text from a webpage or selected screen area:
      * Hold down the 'Shift' key.
