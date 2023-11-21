@@ -14,8 +14,7 @@ Raku Honyaku makes use of Google Cloud Vision and Translation APIs. An API key f
 To-Do:
 * Draggable window
 * Have the popup keep track of API key usage.
-* 'How to Use' Section
-* 'How to make an API key' Section
+* Add Images to the 'How to Use' Section
 
 # How to Use
 
@@ -45,8 +44,7 @@ Extension Usage:
    * In the popup, find the checkbox labeled "ON/OFF" and use it to enable or disable the extension.
 3. Enter/Remove API Key:
    * Enter your API Key created from the Setup Instructions into the provided input field.
-   * Click "Submit API Key" to save it to Chrome storage.
-   * Use "Remove Stored API Key" to delete the stored API key.
+   * Click "Submit API Key" to save it to Chrome storage. The API Key will automatically be retrieved and used on subsequent Chrome sessions until removed.
 4. Capture and Translate:
    * To extract and translate text from a webpage or selected screen area:
      * Hold down the 'Shift' key.
