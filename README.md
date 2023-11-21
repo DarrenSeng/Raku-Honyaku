@@ -1,4 +1,4 @@
-#Raku Honyaku 
+# Raku Honyaku ![icon48](https://github.com/DarrenSeng/Raku-Honyaku/blob/main/icons/icon48.png)
 
 A simple extension for extracting Japanese text from part of any webpage.
 
