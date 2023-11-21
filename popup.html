@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class = 'container1'>
+        <label for="apiKey">Enter API Key</label>
+        <div class = 'on-off'>
+            <label for="toggleSwitch">ON/OFF:</label>
+            <input type="checkbox" id="toggleSwitch">
+        </div>
+    </div>
+
+    <div class = 'apiEntry'>
+        <input type="password" id="apiKey" name="apiKey" placeholder="Your API Key">
+        <button id="showBtn">Show</button>
+    </div>
+    <div class = 'buttons'>
+        <button id="submitBtn">Submit API Key</button>
+        <button id="removeBtn">Remove Stored API Key</button>
+    </div>
+    <script src = 'popup.js'></script>
+</body>
+
+</html>
